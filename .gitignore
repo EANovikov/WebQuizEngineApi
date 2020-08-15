@@ -1,0 +1,20 @@
+# Idea files
+*.iml
+.idea
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+
+#H2 files
+*.db
+
+# Output
+target
+*/tmp/*
